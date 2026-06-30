@@ -136,7 +136,7 @@ La visualización incluye:
 ```markdown
 ## 📊 Resultado
 
-![Campo eléctrico](campo.png)
+![Campo eléctrico](CampoElectrico.png)
 
 ---
 
