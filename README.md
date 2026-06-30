@@ -25,23 +25,9 @@ La separación entre cargas adyacentes es **6 m**, y el origen del sistema de co
 
 ## ⚙️ Fundamento físico
 
-El campo eléctrico producido por una carga puntual está dado por
+## ⚙️ Fundamento físico
 
-$$
-\vec{E}=k\frac{q}{r^{3}}\vec{r},
-$$
-
-donde
-
-- $k$ es la constante de Coulomb.
-- $q$ es la carga eléctrica.
-- $\vec r$ es el vector que une la carga con el punto de observación.
-
-El campo eléctrico total se obtiene mediante el principio de superposición:
-
-$$
-\vec{E}_{total}=\sum_{i=1}^{4}\vec{E}_i.
-$$
+La simulación implementa la Ley de Coulomb para calcular el campo eléctrico generado por cuatro cargas puntuales. El campo total se obtiene aplicando el principio de superposición, es decir, sumando vectorialmente el aporte de cada carga en todos los puntos de una malla bidimensional. Por último, el resultado se visualiza mediante un campo vectorial utilizando `NumPy` y `Matplotlib`.
 
 ---
 
