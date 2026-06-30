@@ -19,13 +19,7 @@ Las cargas utilizadas fueron:
 | $q_3$ | $(-3,\;-3)$ | $-5\,\mu C$ |
 | $q_4$ | $(3,\;-3)$ | $+5\,\mu C$ |
 
-La separación entre cargas adyacentes es
-
-\[
-a = 6\;m
-\]
-
-y el origen del sistema de coordenadas coincide con el centro del arreglo.
+La separación entre cargas adyacentes es **6 m**, y el origen del sistema de coordenadas coincide con el centro del arreglo.
 
 ---
 
@@ -33,9 +27,9 @@ y el origen del sistema de coordenadas coincide con el centro del arreglo.
 
 El campo eléctrico producido por una carga puntual está dado por
 
-\[
+$$
 \vec{E}=k\frac{q}{r^{3}}\vec{r},
-\]
+$$
 
 donde
 
@@ -45,9 +39,9 @@ donde
 
 El campo eléctrico total se obtiene mediante el principio de superposición:
 
-\[
+$$
 \vec{E}_{total}=\sum_{i=1}^{4}\vec{E}_i.
-\]
+$$
 
 ---
 
@@ -78,7 +72,7 @@ campo-electrico-cuatro-cargas/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/campo-electrico-cuatro-cargas.git
+git clone https://github.com/ValeRoyal/Visualizacion-del-Campo-Electrico-de-un-Arreglo-de-Cuatro-Cargas-Puntuales.git
 ```
 
 ### 2. Entrar al proyecto
@@ -132,8 +126,8 @@ La visualización incluye:
 - Identificación de cargas positivas y negativas.
 - Ejes cartesianos resaltados.
 - Cuadrícula para facilitar la interpretación.
-
-```markdown
+  
+---
 ## 📊 Resultado
 
 ![Campo eléctrico](CampoElectrico.png)
@@ -142,9 +136,7 @@ La visualización incluye:
 
 ## 👩‍💻 Autora
 
-**Valentina Aguilar Morado**
-
-Estudiante de Ingeniería de Sistemas.
+**Valentina Aguilar Perdomo**
 
 ---
 
