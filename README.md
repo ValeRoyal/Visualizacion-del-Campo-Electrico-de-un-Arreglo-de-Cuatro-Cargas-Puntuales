@@ -15,8 +15,8 @@ Las cargas utilizadas fueron:
 | Carga | Posición (m) | Valor |
 |:-----:|:------------:|:------:|
 | $q_1$ | $(-3,\;3)$ | $+5\,\mu C$ |
-| $q_2$ | $(3,\;3)$ | $-5\,\mu C$ |
-| $q_3$ | $(-3,\;-3)$ | $-5\,\mu C$ |
+| $q_2$ | $(-3,\;-3)$ | $-5\,\mu C$ |
+| $q_3$ | $(3,\;3)$ | $-5\,\mu C$ |
 | $q_4$ | $(3,\;-3)$ | $+5\,\mu C$ |
 
 La separación entre cargas adyacentes es **6 m**, y el origen del sistema de coordenadas coincide con el centro del arreglo.
